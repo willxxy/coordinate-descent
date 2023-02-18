@@ -1,1 +1,1 @@
-# coordinate-descent
+# Simple Coordinate Descent
